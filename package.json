@@ -1,0 +1,22 @@
+{
+  "name": "simple-clinic-schedule",
+  "version": "1.0.0",
+  "description": "Consultation clinic system in your neighborhood.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquehsilva/simple-clinic-schedule.git"
+  },
+  "author": "Henrique H. da Silva <contato@henriquesilva.dev> (https://henriquesilva.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquehsilva/simple-clinic-schedule/issues"
+  },
+  "homepage": "https://github.com/henriquehsilva/simple-clinic-schedule#readme"
+}
