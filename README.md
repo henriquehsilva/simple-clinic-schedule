@@ -39,6 +39,10 @@ Seria muito legal se você conseguisse implementar uma maneira de armazenar as i
 * npm install
 * npm run start
 
+### Run tests
+
+* npm run test
+
 ## Autores
 
 Henrique H. da Silva | [henriquehsilva](https://github.com/henriquehsilva)
